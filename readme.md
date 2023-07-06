@@ -2,7 +2,7 @@
 
 ## DEPLOY
 
-https://haunted-house-ochre.vercel.app/
+[Haunted House](https://haunted-house-ochre.vercel.app/)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
